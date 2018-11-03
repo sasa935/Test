@@ -1,4 +1,4 @@
 import numpy as np
 
-bbb = np.ndarray(1)
-print(bbb)
+ccc = np.ndarray(1)
+print(ccc)
